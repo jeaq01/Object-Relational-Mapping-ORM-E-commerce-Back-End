@@ -9,7 +9,7 @@
 # Aplication
  
 ## The initial build command is:  `npm i`
-## The start command to seed data to your database so that you can test your routes will be 'npm run seed'
+## The start command to seed data to your database so that you can test your routes will be `npm run seed`
 ## The start command to run you database will be `npm i start`
  
 
